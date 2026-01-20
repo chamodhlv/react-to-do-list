@@ -23,9 +23,9 @@ Local Storage for saving todos
 📂 Project Structure
 src/
 ├── components/
-│   ├── TodoInput.jsx
-│   ├── TodoList.jsx
-│   └── TodoCard.jsx
+│ ├── TodoInput.jsx
+│ ├── TodoList.jsx
+│ └── TodoCard.jsx
 ├── App.jsx
 ├── index.js
 └── styles.css
