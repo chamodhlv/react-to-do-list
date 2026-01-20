@@ -1,16 +1,44 @@
-# React + Vite
+📝 React Todo List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Link 👉 https://minimal-react-to-do-list.netlify.app/
 
-Currently, two official plugins are available:
+A simple and clean Todo List application built with React.
+This app helps users add, view, and manage daily tasks using React state and components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## React Compiler
+➕ Add new todos
+📋 Display a list of todos
+❌ Delete completed or unwanted tasks
+✏️ Edit existing todos (optional if you added this)
+💾 Persistent data using Local Storage
+⚡ Fast and responsive UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Built With
+React (Functional Components)
+React Hooks (useState, useEffect)
+CSS for styling
+Local Storage for saving todos
 
-## Expanding the ESLint configuration
+📂 Project Structure
+src/
+├── components/
+│   ├── TodoInput.jsx
+│   ├── TodoList.jsx
+│   └── TodoCard.jsx
+├── App.jsx
+├── index.js
+└── styles.css
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚙️ Getting Started
+1️⃣ Clone the repository
+git clone https://github.com/your-username/react-todo-app.git
+
+2️⃣ Navigate to the project folder
+cd react-todo-app
+
+3️⃣ Install dependencies
+npm install
+
+4️⃣ Run the app
+npm run dev
