@@ -1,7 +1,8 @@
 📝 React Todo List App
 
 Live Link 👉 https://minimal-react-to-do-list.netlify.app/
-![Alt text]([path/to/image.png](https://github.com/chamodhlv/react-to-do-list/blob/2d18480c90c5e95c2166d71527737fc0b1937596/Screenshot%202026-01-20%20173119.png))
+
+![Alt text](https://github.com/chamodhlv/react-to-do-list/blob/daf923b8c2c297628f4cfe13ca6bda25be05aec9/Screenshot%202026-01-20%20173119.png)
 
 
 A simple and clean Todo List application built with React.
