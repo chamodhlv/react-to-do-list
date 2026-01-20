@@ -1,6 +1,8 @@
 📝 React Todo List App
 
 Live Link 👉 https://minimal-react-to-do-list.netlify.app/
+![Alt text]([path/to/image.png](https://github.com/chamodhlv/react-to-do-list/blob/2d18480c90c5e95c2166d71527737fc0b1937596/Screenshot%202026-01-20%20173119.png))
+
 
 A simple and clean Todo List application built with React.
 This app helps users add, view, and manage daily tasks using React state and components.
