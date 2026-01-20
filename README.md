@@ -14,12 +14,14 @@ Live Link 👉 https://minimal-react-to-do-list.netlify.app/
 💾 Persistent data using Local Storage
 ⚡ Fast and responsive UI
 
+
 🛠️ Built With
 
 React (Functional Components)
 React Hooks (useState, useEffect)
 CSS for styling
 Local Storage for saving todos
+
 
 src/
 ├── components/
@@ -33,14 +35,14 @@ src/
 
 ⚙️ Getting Started
 
-1️⃣ Clone the repository
+1️⃣ Clone the repository:
 git clone https://github.com/your-username/react-todo-app.git
 
-2️⃣ Navigate to the project folder
+2️⃣ Navigate to the project folder:
 cd react-todo-app
 
-3️⃣ Install dependencies
+3️⃣ Install dependencies:
 npm install
 
-4️⃣ Run the app
+4️⃣ Run the app:
 npm run dev
