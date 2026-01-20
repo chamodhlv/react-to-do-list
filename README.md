@@ -23,16 +23,6 @@ CSS for styling
 Local Storage for saving todos
 
 
-src/
-├── components/
-│   ├── TodoInput.jsx
-│   ├── TodoList.jsx
-│   └── TodoCard.jsx
-├── App.jsx
-├── index.js
-└── styles.css
-
-
 ⚙️ Getting Started
 
 1️⃣ Clone the repository:
