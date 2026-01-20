@@ -8,28 +8,19 @@ Live Link 👉 https://minimal-react-to-do-list.netlify.app/
 🚀 Features
 
 ➕ Add new todos
-
 📋 Display a list of todos
-
 ❌ Delete completed or unwanted tasks
-
 ✏️ Edit existing todos (optional if you added this)
-
 💾 Persistent data using Local Storage
-
 ⚡ Fast and responsive UI
 
 🛠️ Built With
 
 React (Functional Components)
-
 React Hooks (useState, useEffect)
-
 CSS for styling
-
 Local Storage for saving todos
 
-📂 Project Structure
 src/
 ├── components/
 │   ├── TodoInput.jsx
@@ -39,7 +30,9 @@ src/
 ├── index.js
 └── styles.css
 
+
 ⚙️ Getting Started
+
 1️⃣ Clone the repository
 git clone https://github.com/your-username/react-todo-app.git
 
